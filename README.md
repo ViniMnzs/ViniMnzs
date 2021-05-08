@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ViniMnzs
 - 👀 I’m interested in web development, engineering and entrepreneurship :)
-- 🌱 I’m currently learning TypeScript and Java
+- 🌱 I’m currently learning Java
 - 📫 How to reach me: www.linkedin.com/in/viniciusrmenezes
 
 <!---
