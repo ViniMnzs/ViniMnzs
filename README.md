@@ -12,4 +12,4 @@
 
 ##
  
-[![My Skills](https://skillicons.dev/icons?i=react,redux,nodejs,nestjs,dotnet,mongodb,mysql,git,docker,aws,firebase,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,redux,nodejs,nestjs,dotnet,mongodb,mysql,git,docker,aws,firebase,vscode)](https://skillicons.dev)
